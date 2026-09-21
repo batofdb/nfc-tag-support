@@ -1,6 +1,6 @@
-# NFC Tag - support site
+# NFC Tag Bench - support site
 
-Support and privacy pages for the NFC Tag iPhone app, served by GitHub Pages.
+Support and privacy pages for the NFC Tag Bench iPhone app, served by GitHub Pages.
 
 - Support: https://batofdb.github.io/nfc-tag-support/
 - Privacy: https://batofdb.github.io/nfc-tag-support/privacy.html
